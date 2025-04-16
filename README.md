@@ -4,7 +4,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 📥 1. Data Collection
+## 1. Data Collection
 
 - **Source:** Publicly available macroeconomic datasets from sources such as FRED, Yahoo Finance, World Bank, IMF, and U.S. Census.
 - **Frequency:** Monthly
@@ -15,7 +15,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 🧾 2. Data Dictionary
+## 2. Data Dictionary
 
 | Variable Name                                | Description                                         |
 |---------------------------------------------|-----------------------------------------------------|
@@ -36,7 +36,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 📊 3. Exploratory Data Analysis (EDA)
+## 3. Exploratory Data Analysis (EDA)
 
 - Time plots and seasonal decomposition to visualize patterns and shocks
 - ADF Tests conducted: All variables differenced to ensure stationarity
@@ -45,7 +45,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 🧠 4. Modeling Steps
+## 4. Modeling Steps
 
 ### VARX(1) Model
 - **Endogenous Variables (13):** Key macroeconomic indicators
@@ -61,7 +61,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 📈 5. Post-Modeling Analysis
+## 5. Post-Modeling Analysis
 
 ### Impulse Response Analysis
 - Traces dynamic response of each macro variable to an exogenous unit shock
@@ -85,7 +85,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 🌍 6. Real-World Insights
+## 6. Real-World Insights
 
 - **COVID-19**: Caused demand collapse (lower trade, oil), job losses, and high volatility
 - **Russia-Ukraine**: More supply-shock driven (exports, oil, inflation), gradual in impact
@@ -94,13 +94,13 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## ✅ 7. Captures Well
+## 7. Captures Well
 
 - Directional shifts from global events (trade, oil, unemployment)
 - Timely spikes in volatility and inflation metrics
 - Policy transmission via interest rate dynamics
 
-## ❌ Not Captured Perfectly
+## Not Captured Perfectly
 
 - Stock price recovery dynamics (possibly non-linear rebound)
 - Lagged labor market adjustments beyond 1-period lags
@@ -108,7 +108,7 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 🌍 Real-World Insights from the Model
+## Real-World Insights from the Model
 
 The VARX model provides several critical macroeconomic insights:
 
@@ -138,5 +138,5 @@ These insights are vital for economists, policymakers, and analysts to understan
 
 ---
 
-## 👨‍💻 Author
+## Author
 Anmol Dwivedi, MS in Business Analytics & AI – The University of Texas at Dallas
