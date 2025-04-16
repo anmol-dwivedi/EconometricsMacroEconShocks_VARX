@@ -108,18 +108,6 @@ This project models and evaluates the effects of major global shocks—namely th
 
 ---
 
-## 📦 8. Additional Notes
-
-- Model deployment possible via Streamlit app with dropdowns for shock toggling
-- Forecast accuracy can be improved with seasonal dummies or regime-switching VAR
-- Useful for real-time policy simulations and counterfactual economic planning
-
----
-
-## 👨‍💻 Author
-Anmol Dwivedi, MS in Business Analytics & AI – The University of Texas at Dallas
----
-
 ## 🌍 Real-World Insights from the Model
 
 The VARX model provides several critical macroeconomic insights:
@@ -149,3 +137,6 @@ The VARX model provides several critical macroeconomic insights:
 These insights are vital for economists, policymakers, and analysts to understand macroeconomic vulnerabilities and resilience to global shocks.
 
 ---
+
+## 👨‍💻 Author
+Anmol Dwivedi, MS in Business Analytics & AI – The University of Texas at Dallas
